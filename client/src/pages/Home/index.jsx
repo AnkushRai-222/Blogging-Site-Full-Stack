@@ -3,6 +3,7 @@ import Navbar from '../../components/Navbar'
 import HeroList from '../../components/Hero/HeroList'
 import Cards  from '../../components/Cards/index'
 import Service from "../../components/Service/index"
+import Footer from '../../components/Footer'
 import styles from "./styles.module.css"
 function index() {
   return (
@@ -14,13 +15,16 @@ function index() {
     <HeroList/>
     </div>
     <div>
-      <h2 className={styles.h2Tag}>Trending Blogs</h2>
+      <h2 className='animate__heartBeat' id={styles.h2Tag}>Trending Blogs</h2>
        <Cards/>
     </div>
     <div>
-    <h2 className={styles.h2Tag}>Our Services</h2>
-     <Service/>
+     <Service/>,
     </div>
+    <div>
+    <Footer/>
+    </div>
+    
     </>
   )
 }

@@ -1,5 +1,5 @@
 .hero {
-    background-image: url(search-bar-7661070_960_720.jpg);
+    background-image: url(bc468e89821c8d43b44e1953d97706d3.gif);
     background-size: 100% auto;
     background-position: center;
     height: 500px;
@@ -8,8 +8,9 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #fff;
-    /* border-radius: 15px; */
+    color:  black;
+    /* border-radius: 30px; 
+     margin-left: 8px; */
   }
   
   .hero h1 {
