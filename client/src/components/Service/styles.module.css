@@ -1,0 +1,33 @@
+.service_list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 2rem 0;
+  }
+  
+  .service {
+    width: calc(33.33% - 1rem);
+    padding: 1rem;
+    background-color: #f5f5f5;
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  
+  }
+  
+  .service:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  .service h3 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .service p {
+    font-size: 1rem;
+    line-height: 1.4;
+    color: #333;
+  }
+  
