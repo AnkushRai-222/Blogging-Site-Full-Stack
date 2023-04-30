@@ -15,7 +15,7 @@ const LandingPage = () => {
             <div className={styles.icon_wrapper}>
               <i className="fas fa-hammer"></i>
             </div>
-            <h3 className={styles.h3}>Service Heading</h3>
+            <h3 className={styles.h3}>Create Blogs</h3>
             <p className={styles.p}>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
               consequatur necessitatibus eaque.
@@ -27,7 +27,7 @@ const LandingPage = () => {
             <div className={styles.icon_wrapper}>
               <i className="fas fa-brush"></i>
             </div>
-            <h3 className={styles.h3}>Service Heading</h3>
+            <h3 className={styles.h3}>Earn Money With Blog</h3>
             <p className={styles.p}>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
               consequatur necessitatibus eaque.
@@ -39,7 +39,7 @@ const LandingPage = () => {
             <div className={styles.icon_wrapper}>
               <i className="fas fa-wrench"></i>
             </div>
-            <h3 className={styles.h3}>Service Heading</h3>
+            <h3 className={styles.h3}>Read Blogs</h3>
             <p className={styles.p}>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
               consequatur necessitatibus eaque.
@@ -51,7 +51,7 @@ const LandingPage = () => {
             <div className={styles.icon_wrapper}>
               <i className="fas fa-truck-pickup"></i>
             </div>
-            <h3 className={styles.h3}>Service Heading</h3>
+            <h3 className={styles.h3}>Share Blogs With Friend </h3>
             <p className={styles.p}>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
               consequatur necessitatibus eaque.
@@ -63,7 +63,7 @@ const LandingPage = () => {
             <div className={styles.icon_wrapper}>
               <i className="fas fa-broom"></i>
             </div>
-            <h3 className={styles.h3}>Service Heading</h3>
+            <h3 className={styles.h3}>Refere & Earn</h3>
             <p className={styles.p}>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
               consequatur necessitatibus eaque.
@@ -75,7 +75,7 @@ const LandingPage = () => {
             <div className={styles.icon_wrapper}>
               <i className="fas fa-plug"></i>
             </div>
-            <h3 className={styles.h3}>Service Heading</h3>
+            <h3 className={styles.h3}>Give Review On Blogs</h3>
             <p className={styles.p}>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam
               consequatur necessitatibus eaque.
