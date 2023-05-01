@@ -13,7 +13,7 @@ const LandingPage = () => {
         <div className={styles.column}>
           <div className={styles.card}>
             <div className={styles.icon_wrapper}>
-              <i className="fas fa-hammer"></i>
+            <i className="fas fa-blog"></i>
             </div>
             <h3 className={styles.h3}>Create Blogs</h3>
             <p className={styles.p}>
@@ -25,7 +25,7 @@ const LandingPage = () => {
         <div className={styles.column}>
           <div className={styles.card}>
             <div className={styles.icon_wrapper}>
-              <i className="fas fa-brush"></i>
+            <i className="fa-solid fa-indian-rupee-sign"></i>
             </div>
             <h3 className={styles.h3}>Earn Money With Blog</h3>
             <p className={styles.p}>
@@ -37,7 +37,7 @@ const LandingPage = () => {
         <div className={styles.column}>
           <div className={styles.card}>
             <div className={styles.icon_wrapper}>
-              <i className="fas fa-wrench"></i>
+            <i className="fa-solid fa-newspaper"></i>
             </div>
             <h3 className={styles.h3}>Read Blogs</h3>
             <p className={styles.p}>
@@ -49,7 +49,7 @@ const LandingPage = () => {
         <div className={styles.column}>
           <div className={styles.card}>
             <div className={styles.icon_wrapper}>
-              <i className="fas fa-truck-pickup"></i>
+            <i className="fa-solid fa-share-from-square"></i>
             </div>
             <h3 className={styles.h3}>Share Blogs With Friend </h3>
             <p className={styles.p}>
@@ -61,7 +61,7 @@ const LandingPage = () => {
         <div className={styles.column}>
           <div className={styles.card}>
             <div className={styles.icon_wrapper}>
-              <i className="fas fa-broom"></i>
+            <i className="fa-solid fa-user-group"></i>
             </div>
             <h3 className={styles.h3}>Refere & Earn</h3>
             <p className={styles.p}>
@@ -73,7 +73,7 @@ const LandingPage = () => {
         <div className={styles.column}>
           <div className={styles.card}>
             <div className={styles.icon_wrapper}>
-              <i className="fas fa-plug"></i>
+            <i class="fa-solid fa-thumbs-up"></i>
             </div>
             <h3 className={styles.h3}>Give Review On Blogs</h3>
             <p className={styles.p}>

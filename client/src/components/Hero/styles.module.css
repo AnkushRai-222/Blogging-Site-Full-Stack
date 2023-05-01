@@ -1,46 +1,46 @@
-.hero {
-    background-image: url(bc468e89821c8d43b44e1953d97706d3.gif);
-    background-size: 100% auto;
-    background-position: center;
-    height: 500px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color:  black;
-    /* border-radius: 30px; 
-     margin-left: 8px; */
-  }
-  
-  .hero h1 {
-    font-size: 4rem;
-    margin-bottom: 5px;
-    margin-top: -250px; /* Adjust this value as needed */
-    font-family: 'Courier New', Courier, monospace;
-  }
-  
-  .hero p {
-    font-size: 1.5rem;
-    padding: 10px;
-    margin-bottom: 1rem;
-    margin-top: 8px; /* Adjust this value as needed */
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-  }
-  .my_button {
-    background-color:black; /* Green background */
-    border: none; /* Remove borders */
-    color: white; /* White text */
-    padding: 15px 32px; 
-    text-align: center; /* Center text */
-    text-decoration: none; /* Remove underline */
-    display: inline-block; /* Display as a block element */
-    font-size: 15px; /* Font size */
-    margin: 4px 2px; /* Margin */
-    cursor: pointer; /* Cursor on hover */
-    border-radius: 5px; /* Rounded corners */
-    font-family: 'Courier New', Courier, monospace;
 
-  }
-  
+.hero {
+  background-image: url(bc468e89821c8d43b44e1953d97706d3.gif);
+  background-size: 100% auto;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color:  black;
+  /* border-radius: 30px; 
+   margin-left: 8px; */
+}
+
+.hero h1 {
+  font-size: 4rem;
+  margin-bottom: 5px;
+  margin-top: -250px; /* Adjust this value as needed */
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.hero p {
+  font-size: 1.5rem;
+  padding: 10px;
+  margin-bottom: 1rem;
+  margin-top: 8px; /* Adjust this value as needed */
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+.my_button {
+  background-color:black; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 15px 32px; 
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Display as a block element */
+  font-size: 15px; /* Font size */
+  margin: 4px 2px; /* Margin */
+  cursor: pointer; /* Cursor on hover */
+  border-radius: 5px; /* Rounded corners */
+  font-family: 'Courier New', Courier, monospace;
+
+}
